@@ -1,0 +1,8 @@
+ch = input("Введіть символ: ")
+print(' ' + 3*ch)
+print(ch, ch)
+print(ch, ch)
+print(5*ch)
+print(ch, ch)
+print(ch, ch)
+print(ch, ch)
